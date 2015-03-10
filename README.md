@@ -1,5 +1,7 @@
 ## DQN 3.0
 
+*NOTE:* **This project needs atleast 6GB of free memory to run.**
+
 This project contains the source code of DQN 3.0, a Lua-based deep reinforcement
 learning architecture, necessary to reproduce the experiments
 described in the paper "Human-level control through deep reinforcement
