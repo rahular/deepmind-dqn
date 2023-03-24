@@ -21,7 +21,7 @@ GPUs (CUDA), which typically results in a significant speed-up.
 
 
 
-###Installation instructions
+### Installation instructions
 
 The installation requires Linux with apt-get.
 
